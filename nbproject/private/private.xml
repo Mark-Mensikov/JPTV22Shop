@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JKTV22/KauplusDB/src/facades/SaleFacade.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JKTV22/KauplusDB/src/entity/Zakazi.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JKTV22/KauplusDB/src/entity/Customer.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JKTV22/KauplusDB/src/managers/CustomerOperator.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JKTV22/KauplusDB/src/facades/CustomerFacade.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JKTV22/KauplusDB/src/facades/ZakazFacade.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JKTV22/KauplusDB/src/managers/OrderOperator.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JKTV22/KauplusDB/src/facades/AbstractFacade.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JKTV22/KauplusDB/src/jktv22shop/JKTV22Shop.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JKTV22/KauplusDB/src/managers/ProductOperator.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JKTV22/KauplusDB/src/facades/ProductFacade.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JKTV22/KauplusDB/src/jktv22shop/App.java</file>
+            <file>file:/C:/Users/pupil/Documents/NetBeansProjects/JKTV22/KauplusDB/src/tools/EntityManagerSingleton.java</file>
+        </group>
+    </open-files>
+</project-private>
